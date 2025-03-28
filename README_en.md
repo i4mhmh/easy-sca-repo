@@ -1,14 +1,37 @@
-# SCA-Implementations
+# 🛡️ SCA-Implementations
 
-## Project Overview
+[中文版本](./README.md)
 
-This repository contains reimplementation codes for research papers on Side-Channel Attack (SCA). The primary goal is to reproduce attack methods from classic papers for usability testing. Note that the experimental results may differ from the original papers. In case of any discrepancies, please refer to the original papers.
+## 🚀 Project Introduction
 
-## Environment Requirements
+This repository contains reproduction codes for side-channel attack (SCA) related papers. 🎯 The main goal is to test the usability by reproducing attack methods from classic papers.
 
-- Python 3.8.10
-- Jupyter Notebook
-- mlscat (latest version)
-- NumPy
-- Matplotlib
-- SciPy
+⚠️ **Important Note**:  
+The final experimental results are not guaranteed to be correct. If the results differ from those in the original paper, please refer to the original paper. We encourage everyone to verify with the original paper.
+
+## 🛠️ Environment Requirements
+
+- 🐍 Python 3.8.10
+- 📓 Jupyter Notebook
+- 📊 mlscat (latest version)
+- 🔢 NumPy
+- 📈 Matplotlib
+- 🔬 SciPy
+- Others
+
+## 🎮 Usage Instructions
+
+Clone this repository:
+
+```bash
+git clone https://github.com/yourusername/SCA-Implementations.git
+```
+
+## 🤝 Contribution Guidelines
+
+Welcome to submit new paper reproduction codes! Please follow these steps:
+
+1. Create a new paper directory, format as PaperName with spaces replaced by -
+2. Add implementation code and related documents in the directory
+3. Submit a Pull Request
+   🌟 Friendly Reminder: If you encounter any issues during use, feel free to submit an issue or contact via email!
